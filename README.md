@@ -7,3 +7,4 @@ En este curso empecé a aprender c++, desde lo más básico.
 5. Promedio: Programa que pide al usuario ingresar 4 notas, para devolver el promedio de ellas.
 6. Meses: Programa que pide al usuario ingresar un numero del 1 al 12, para devolver el mes correspondiente.
 7. Signos: Programa que pide al usuario ingresar un numero, para devolver si es positivo, negativo o neutro.
+8. CantidadDigitos: Programa que pide al usuario ingresar digitos, para devolver la cantidad de ellos.
