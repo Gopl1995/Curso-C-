@@ -11,3 +11,4 @@ En este curso empecé a aprender c++, desde lo más básico.
 9. NumerosNaturales: Programa que muestra los numeros del 0 al 100.
 10. Fibonacci: Programa que pide al usuario ingresar un numero, para poder ver el resultado de Fibonacci.
 11. MultiplicacionElementos: Programa que pide al usuario ingresar 5 elementos en dos arreglos, para poder multiplicarlos entre ellos.
+12. Union: Programa que pide al usuario ingresar elementos a dos arreglos y mostrar todos los elementos en un arreglo resultante.
