@@ -13,3 +13,4 @@ En este curso empecé a aprender c++, desde lo más básico.
 11. MultiplicacionElementos: Programa que pide al usuario ingresar 5 elementos en dos arreglos, para poder multiplicarlos entre ellos.
 12. Union: Programa que pide al usuario ingresar elementos a dos arreglos y mostrar todos los elementos en un arreglo resultante.
 13. Burbuja: Programa que hace el ordenamiento burbuja de un arreglo ya definido previamente.
+14. SumaMatrices: Programa que pide al usuario ingresar valores a dos matrices, para despues mostrar el resultado de la suma de ambas.
