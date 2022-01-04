@@ -18,3 +18,4 @@ En este curso empecé a aprender c++, desde lo más básico.
 16. Funciones: Programa que muestra el uso de funciones.
 17. Potencia: Programa que muestra la potencia utilizando funciones.
 18. NumerosAmigos: Programa que muestra si los numeros son amigos de acuerdo a la suma de sus divisores.
+19. InvertirArreglos: Programa que invierte los datos de un arreglo.
