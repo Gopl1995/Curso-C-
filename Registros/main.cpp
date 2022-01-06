@@ -12,6 +12,7 @@ int main(){
 
     cout<<"Ingrese el nombre: "<<endl;
     cin>>p.nombre;
+    //cin.getline(p.nombre, 30); -->esto tambien funciona
     cout<<"Ingrese el apellido: "<<endl;
     cin>>p.apellido;
     cout<<"Ingrese la edad: "<<endl;
