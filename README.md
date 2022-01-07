@@ -24,3 +24,4 @@ En este curso empecé a aprender c++, desde lo más básico.
 22. PromedioStructs: Programa que calcula los promedios de 3 notas de 4 estudiantes, utilizando structs (Alummo).
 23. ATSalida: Programa que crea un archivo.txt.
 24. ATEntrada: Programa que lee el contenido de un archivo.txt
+25. Apertura: Programa que muestra la forma de abrir los archivos.
