@@ -36,12 +36,12 @@
 <p> 22. PromedioStructs: Programa que calcula los promedios de 3 notas de 4 estudiantes, utilizando structs (Alummo). </p>
 
 <h2> ARCHIVOS </h2>
-<p> 29. ATSalida: Programa que crea un archivo.txt. </p>
-<p> 30. ATEntrada: Programa que lee el contenido de un archivo.txt. </p>
-<p> 31. Apertura: Programa que muestra la forma de abrir los archivos. </p>
-<p> 32. Lineas: Programa que lee varias lineas, usando eof. </p>
-<p> 33. ERArchivo: Programa que permite renombrar y eliminar un archivo. </p>
-<p> 34. LeaArchivo: Programa que lee un archivo y convierte las letras de ese archivo a mayuscula guardandolas en otro archivo. </p>
+<p> 23. ATSalida: Programa que crea un archivo.txt. </p>
+<p> 24. ATEntrada: Programa que lee el contenido de un archivo.txt. </p>
+<p> 25. Apertura: Programa que muestra la forma de abrir los archivos. </p>
+<p> 26. Lineas: Programa que lee varias lineas, usando eof. </p>
+<p> 27. ERArchivo: Programa que permite renombrar y eliminar un archivo. </p>
+<p> 28. LeaArchivo: Programa que lee un archivo y convierte las letras de ese archivo a mayuscula guardandolas en otro archivo. </p>
   
   
 </body>
