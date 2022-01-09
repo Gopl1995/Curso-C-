@@ -26,3 +26,4 @@ En este curso empecé a aprender c++, desde lo más básico.
 24. ATEntrada: Programa que lee el contenido de un archivo.txt
 25. Apertura: Programa que muestra la forma de abrir los archivos.
 26. Lineas: Programa que lee varias lineas, usando eof.
+27. ERArchivo: Programa que permite renombrar y eliminar un archivo.
