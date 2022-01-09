@@ -1,6 +1,6 @@
-<head> Curso de C++ </head>
+<h1> Curso de C++ En este curso empezaré a aprender c++, desde lo más básico. </h1>
 <body>
-En este curso empezaré a aprender c++, desde lo más básico.
+
 <h2> OPERACIONES BÁSICAS </h2>
 <p> 1. AreaTriángulo: Programa que pide al usuario que ingrese la base y la altura del tríangulo, para devolver el resultado del área. </p>
 <p> 2. HolaMundo: Programa básico que muestar el famoso mensaje en consola "Hola Mundo". </p>
