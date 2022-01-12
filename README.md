@@ -34,6 +34,9 @@
 <p> 20. Registros: Programa que muestra el uso basico de los registros. </p>
 <p> 21. Proveedores: Programa que ingresa 5 proveedores con sus datos y devuelve el proveedor mas barato y el mas caro. </p>
 <p> 22. PromedioStructs: Programa que calcula los promedios de 3 notas de 4 estudiantes, utilizando structs (Alummo). </p>
+  
+  <h2> TALLER FINAL </h2>
+  <p> TallerFinCurso: Fin del curso, donde se hace una Agenda, con funciones basicas de Agregar, Modificar, Eliminar y Mostrar contacto</p>
 
 <h2> ARCHIVOS </h2>
 <p> 23. ATSalida: Programa que crea un archivo.txt. </p>
