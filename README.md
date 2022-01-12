@@ -34,9 +34,6 @@
 <p> 20. Registros: Programa que muestra el uso basico de los registros. </p>
 <p> 21. Proveedores: Programa que ingresa 5 proveedores con sus datos y devuelve el proveedor mas barato y el mas caro. </p>
 <p> 22. PromedioStructs: Programa que calcula los promedios de 3 notas de 4 estudiantes, utilizando structs (Alummo). </p>
-  
-  <h2> TALLER FINAL </h2>
-  <p> TallerFinCurso: Fin del curso, donde se hace una Agenda, con funciones basicas de Agregar, Modificar, Eliminar y Mostrar contacto</p>
 
 <h2> ARCHIVOS </h2>
 <p> 23. ATSalida: Programa que crea un archivo.txt. </p>
@@ -45,6 +42,8 @@
 <p> 26. Lineas: Programa que lee varias lineas, usando eof. </p>
 <p> 27. ERArchivo: Programa que permite renombrar y eliminar un archivo. </p>
 <p> 28. LeaArchivo: Programa que lee un archivo y convierte las letras de ese archivo a mayuscula guardandolas en otro archivo. </p>
-  
+
+<h2> TALLER FINAL </h2>
+<p> TallerFinCurso: Fin del curso, donde se hace una Agenda, con funciones basicas de Agregar, Modificar, Eliminar y Mostrar contacto</p>
   
 </body>
