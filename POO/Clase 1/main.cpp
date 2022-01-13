@@ -8,6 +8,8 @@ using namespace std;
 int main(){
     Punto p1(2,1); //Objeto estatico
 
+    //p1.x = 10; //Esto funciona cuando los atributos cambian de private a public
+
     cout<<"El valor de x es: "<<p1.getX()<<endl;
     cout<<"El valor de y es: "<<p1.getY()<<endl;
 

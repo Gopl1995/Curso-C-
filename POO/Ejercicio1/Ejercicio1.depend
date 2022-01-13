@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642104346 source:c:\users\gustavo\desktop\curso_c++\poo\ejercicio1\diaanio.cpp
+	<iostream>
+	"DiaAnio.h"
+
+1642104737 c:\users\gustavo\desktop\curso_c++\poo\ejercicio1\diaanio.h
+
+1642104781 source:c:\users\gustavo\desktop\curso_c++\poo\ejercicio1\main.cpp
+	<iostream>
+	"DiaAnio.h"
+
