@@ -46,4 +46,7 @@
 <h2> TALLER FINAL </h2>
 <p> TallerFinCurso: Fin del curso, donde se hace una Agenda, con funciones basicas de Agregar, Modificar, Eliminar y Mostrar contacto</p>
   
+<h2> POO </h2>
+  <p>Clase 1: Programa que hace la Clase Punto con sus atributos y metodos (.h, .cpp y main) </p>
+  <p>Ejercicio1: Programa que pide la fecha actual y la compara con la fecha de cumpleanhos </p>
 </body>
