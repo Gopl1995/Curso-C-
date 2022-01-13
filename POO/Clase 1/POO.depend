@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1642052695 source:c:\users\gustavo\desktop\nueva carpeta\poo\main.cpp
+	"Punto.h"
+	<iostream>
+	<stdio.h>
+
+1642052678 c:\users\gustavo\desktop\nueva carpeta\poo\punto.h
+	<iostream>
+	<stdio.h>
+
+1642052645 source:c:\users\gustavo\desktop\nueva carpeta\poo\punto.cpp
+	"Punto.h"
+	<iostream>
+	<stdio.h>
+
+1642052695 source:c:\users\gustavo\desktop\curso_c++\poo\poo\main.cpp
+	"Punto.h"
+	<iostream>
+	<stdio.h>
+
+1642052678 c:\users\gustavo\desktop\curso_c++\poo\poo\punto.h
+	<iostream>
+	<stdio.h>
+
+1642052645 source:c:\users\gustavo\desktop\curso_c++\poo\poo\punto.cpp
+	"Punto.h"
+	<iostream>
+	<stdio.h>
+
+1642052695 source:c:\users\gustavo\desktop\curso_c++\poo\clase 1\main.cpp
+	"Punto.h"
+	<iostream>
+	<stdio.h>
+
+1642052678 c:\users\gustavo\desktop\curso_c++\poo\clase 1\punto.h
+	<iostream>
+	<stdio.h>
+
+1642052645 source:c:\users\gustavo\desktop\curso_c++\poo\clase 1\punto.cpp
+	"Punto.h"
+	<iostream>
+	<stdio.h>
+
