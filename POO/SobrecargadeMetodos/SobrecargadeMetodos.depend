@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642118731 source:c:\users\gustavo\desktop\curso_c++\poo\sobrecargademetodos\main.cpp
+	<iostream>
+	"Persona.h"
+
+1642118742 c:\users\gustavo\desktop\curso_c++\poo\sobrecargademetodos\persona.h
+	<iostream>
+

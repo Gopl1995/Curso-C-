@@ -13,6 +13,6 @@ bool DiaAnio::igual(DiaAnio& d){
 
 void DiaAnio::visualizar(){
     cout<<"Mostrando los datos: "<<endl;
-    cout<<"Mes: "<<mes<<endl;
     cout<<"Dia: "<<dia<<endl;
+    cout<<"Mes: "<<mes<<endl;
 }

@@ -17,7 +17,7 @@ int main()
     cout<<"Mes: ";
     cin>>m;
 
-    hoy = new DiaAnio(d,m);
+    hoy = new DiaAnio(d,m); //rellenamos el objeto hoy
 
     cout<<"Ingrese la fecha de cumpleanhos"<<endl;
     cout<<"Dia: ";
@@ -25,7 +25,7 @@ int main()
     cout<<"Mes: ";
     cin>>m;
 
-    cumple = new DiaAnio(d,m);
+    cumple = new DiaAnio(d,m); //rellenamos el objeto cumple
 
     hoy->visualizar();
     cout<<endl;
