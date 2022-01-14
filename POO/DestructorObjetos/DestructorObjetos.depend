@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642128641 source:c:\users\gustavo\desktop\curso_c++\poo\destructorobjetos\main.cpp
+	<iostream>
+	"Perro.h"
+
+1642128306 c:\users\gustavo\desktop\curso_c++\poo\destructorobjetos\perro.h
+
+1642128326 source:c:\users\gustavo\desktop\curso_c++\poo\destructorobjetos\perro.cpp
+	<iostream>
+	"Perro.h"
+
