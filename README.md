@@ -47,6 +47,8 @@
 <p> TallerFinCurso: Fin del curso, donde se hace una Agenda, con funciones basicas de Agregar, Modificar, Eliminar y Mostrar contacto</p>
   
 <h2> POO </h2>
-  <p>Clase 1: Programa que hace la Clase Punto con sus atributos y metodos (.h, .cpp y main) </p>
-  <p>Ejercicio1: Programa que pide la fecha actual y la compara con la fecha de cumpleanhos </p>
+  <p>Clase 1: Programa que hace la Clase Punto con sus atributos y metodos (.h, .cpp y main). </p>
+  <p>Ejercicio1: Programa que pide la fecha actual y la compara con la fecha de cumpleanhos. </p>
+  <p>SobrecargadeMetodos: Programa que muestra el uso de la sobrecarga de metodos, creando la clase persona con dos constructores. </p>
+  <p>DestructorObjetos: Programa que muestra el uso del destructor, para objetos dinamicos, es necesario liberar manualmente la memoria. </p>
 </body>
