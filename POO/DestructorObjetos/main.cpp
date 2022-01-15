@@ -13,9 +13,9 @@ int main()
     Perro* perrito2 = new Perro("Osita", "Pastor Australiano");
     perrito2->mostrarDatos();
     perrito2->jugar();
-    delete(perrito2);//destruyendo el objeto perrito2 de tipo dinamico
+    delete(perrito2);//destruyendo el objeto perrito2 de tipo dinamico, esto se hace al final del programa
 
-    perrito2->jugar();
+    perrito2->jugar();//no deberia de funcionar
 
     return 0;
 }

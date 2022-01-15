@@ -11,9 +11,9 @@ class Perro{
     //Metodos
     public:
 
-        Perro(string _nombre, string _raza){ //Constructor
-            nombre = _nombre;
-            raza = _raza;
+        Perro(string nombre, string raza){ //Constructor
+            this->nombre = nombre;
+            this->raza = raza;
         }
 
         ~Perro(){ //Destructor
