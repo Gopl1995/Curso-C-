@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1642280156 source:c:\users\gustavo\desktop\curso_c++\poo\clasescompuestas\main.cpp
+	<iostream>
+	"Estudiante.h"
+
+1642280034 c:\users\gustavo\desktop\curso_c++\poo\clasescompuestas\estudiante.h
+	<iostream>
+	"Expediente.h"
+	"Direccion.h"
+
+1642277632 c:\users\gustavo\desktop\curso_c++\poo\clasescompuestas\expediente.h
+	<iostream>
+
+1642277719 c:\users\gustavo\desktop\curso_c++\poo\clasescompuestas\direccion.h
+	<iostream>
+
