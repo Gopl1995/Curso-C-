@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1642288420 source:c:\users\gustavo\desktop\curso_c++\poo\miembrosstatic\main.cpp
+	<iostream>
+	"Estatico.h"
+
+1642288648 c:\users\gustavo\desktop\curso_c++\poo\miembrosstatic\estatico.h
+	<iostream>
+
+1642288465 source:c:\users\gustavo\desktop\curso_c++\poo\miembrosstatic\estatico.cpp
+	<iostream>
+	"Estatico.h"
+
