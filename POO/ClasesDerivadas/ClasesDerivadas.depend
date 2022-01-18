@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642396416 source:c:\users\gustavo\desktop\curso_c++\poo\clasesderivadas\main.cpp
+	<iostream>
+	"Triangulo.h"
+
+1642396493 c:\users\gustavo\desktop\curso_c++\poo\clasesderivadas\triangulo.h
+	<iostream>
+	<math.h>
+	"Figura.h"
+
+1642396340 c:\users\gustavo\desktop\curso_c++\poo\clasesderivadas\figura.h
+	<iostream>
+
