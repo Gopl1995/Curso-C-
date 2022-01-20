@@ -34,6 +34,7 @@
 		</Compiler>
 		<Unit filename="Animal.h" />
 		<Unit filename="AnimalCarnivoro.h" />
+		<Unit filename="AnimalHerviboro.h" />
 		<Unit filename="Planta.h" />
 		<Unit filename="SerVivo.h" />
 		<Unit filename="main.cpp" />
