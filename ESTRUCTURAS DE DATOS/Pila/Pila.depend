@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642901735 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\pila\main.cpp
+	<iostream>
+	"NodoPila.h"
+
+1642902500 c:\users\gustavo\desktop\curso_c++\estructuras de datos\pila\nodopila.h
+	<iostream>
+
