@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642986497 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\cola\main.cpp
+	<iostream>
+	"NodoCola.h"
+
+1642986877 c:\users\gustavo\desktop\curso_c++\estructuras de datos\cola\nodocola.h
+	<iostream>
+
