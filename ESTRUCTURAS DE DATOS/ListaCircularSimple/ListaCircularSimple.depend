@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643164552 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacircularsimple\main.cpp
+	<iostream>
+	"ListaCS.h"
+
+1643164552 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacircularsimple\listacs.h
+	"NodoLCS.h"
+	<iostream>
+
+1643164324 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacircularsimple\nodolcs.h
+	<iostream>
+
+1643164273 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacircularsimple\listacs.cpp
+	"ListaCS.h"
+	<iostream>
+
+1643164291 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacircularsimple\nodolcs.cpp
+	"NodoLCS.h"
+	<iostream>
+
