@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643162726 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listadoble\main.cpp
+	<iostream>
+	"ListaDoble.h"
+
+1643155988 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listadoble\nodold.cpp
+	"NodoLD.h"
+	<iostream>
+
+1643157094 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listadoble\nodold.h
+	<iostream>
+
+1643162726 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listadoble\listadoble.h
+	"NodoLD.h"
+	<iostream>
+
+1643157188 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listadoble\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+

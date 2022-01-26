@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643050696 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listasimple\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+
+1643052936 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listasimple\listasimple.h
+	"NodoLS.h"
+	<iostream>
+
+1643050780 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listasimple\nodols.h
+	<iostream>
+
+1643053439 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listasimple\main.cpp
+	<iostream>
+	"ListaSimple.h"
+
+1643051081 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listasimple\nodols.cpp
+	"NodoLS.h"
+	<iostream>
+
