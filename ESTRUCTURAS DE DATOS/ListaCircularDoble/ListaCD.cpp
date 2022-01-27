@@ -1,34 +1,37 @@
-#include "ListaCS.h"
-
-#include<iostream>
+#include "ListaCD.h"
+#include <iostream>
 
 using namespace std;
 
-ListaCS::ListaCS(){
+ListaCD::ListaCD(){
     siguiente = NULL;
+    atras = NULL;
     primero = NULL;
     ultimo = NULL;
 }
 
-void ListaCS::insertar(string nombre, int edad){
-    NodoLCS* nuevo = new NodoLCS();
+void ListaCD::insertar(string nombre, int edad){
+    NodoLCD* nuevo = new NodoLCD();
     nuevo->setNombre(nombre);
     nuevo->setEdad(edad);
 
     if(primero == NULL){
         primero = nuevo;
+        ultimo = nuevo;
         primero->siguiente = primero;
-        ultimo = primero;
+        primero->atras = ultimo;
     }else{
         ultimo->siguiente = nuevo;
+        nuevo->atras = ultimo;
         nuevo->siguiente = primero;
         ultimo = nuevo;
+        primero->atras = ultimo;
     }
     cout<<"Nodo ingresado"<<endl;
 }
 
-void ListaCS::mostrar(){
-    NodoLCS* actual = new NodoLCS();
+void ListaCD::mostrar(){
+    NodoLCD* actual = new NodoLCD();
     actual = primero;
     if(primero != NULL){
         do{
@@ -40,8 +43,8 @@ void ListaCS::mostrar(){
     cout<<"Lista vacia"<<endl;
 }
 
-void ListaCS::modificar(string nombre){
-    NodoLCS* actual = new NodoLCS();
+void ListaCD::modificar(string nombre){
+    NodoLCD* actual = new NodoLCD();
     actual = primero;
     string buscado;
     string modificado;
@@ -68,10 +71,10 @@ void ListaCS::modificar(string nombre){
     }
 }
 
-void ListaCS::eliminar(){
-    NodoLCS* actual = new NodoLCS();
+void ListaCD::eliminar(){
+    NodoLCD* actual = new NodoLCD();
     actual = primero;
-    NodoLCS* anterior = new NodoLCS();
+    NodoLCD* anterior = new NodoLCD();
     anterior = NULL;
     string buscado;
     bool encontrado = false;
@@ -83,12 +86,15 @@ void ListaCS::eliminar(){
                 cout<<"Nodo encontrado"<<endl;
                 if(actual == primero){
                     primero = primero->siguiente;
+                    primero->atras = ultimo;
                     ultimo->siguiente = primero;
                 }else if(actual == ultimo){
-                    anterior->siguiente = primero;
                     ultimo = anterior;
+                    ultimo->siguiente = primero;
+                    primero->atras = ultimo;
                 }else{
                     anterior->siguiente = actual->siguiente;
+                    actual->siguiente->atras = anterior;
                 }
                 cout<<"Nodo eliminado"<<endl;
                 encontrado = true;
@@ -102,4 +108,5 @@ void ListaCS::eliminar(){
     }else{
         cout<<"Lista vacia"<<endl;
     }
+
 }

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643241466 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacirculardoble\nodolcd.cpp
+	"NodoLCD.h"
+	<iostream>
+
+1643241271 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacirculardoble\nodolcd.h
+	<iostream>
+
+1643249131 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacirculardoble\main.cpp
+	<iostream>
+	"ListaCD.h"
+
+1643249131 c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacirculardoble\listacd.h
+	"NodoLCD.h"
+	<iostream>
+
+1643249131 source:c:\users\gustavo\desktop\curso_c++\estructuras de datos\listacirculardoble\listacd.cpp
+	"ListaCD.h"
+	<iostream>
+
